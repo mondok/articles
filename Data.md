@@ -10,4 +10,5 @@
 
 ## Theory
 * [CAP FAQ](https://github.com/henryr/cap-faq)
+* [Raft Consensus Algorithm](https://raft.github.io/)
 
