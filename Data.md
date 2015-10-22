@@ -8,6 +8,9 @@
 ## Spark
 * [How-to: Index Scanned PDFs at Scale Using Fewer Than 50 Lines of Code](http://blog.cloudera.com/blog/2015/10/how-to-index-scanned-pdfs-at-scale-using-fewer-than-50-lines-of-code/)
 
+## Kafka
+*  [Kafka High-level Consumer - Missing Pieces](http://ingest.tips/2014/10/12/kafka-high-level-consumer-frequently-missing-pieces/)
+
 ## Theory
 * [CAP FAQ](https://github.com/henryr/cap-faq)
 * [Raft Consensus Algorithm](https://raft.github.io/)
