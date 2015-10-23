@@ -7,3 +7,4 @@
 *  [Managing Elixir processes with poolboy](http://hashnuke.com/2013/10/03/managing-processes-with-poolboy-in-elixir.html)
 *  [Streaming data through a pool](http://learningelixir.joekain.com/streaming-through-a-pool-in-elixir/)
 *  [Functional Polymorphism](https://medium.com/@santosh79/functional-polymorphism-bd8efd9fbb6#.2ryp9bavi)
+*  [My discoveries about Elixir processes](http://eddwardo.github.io/elixir/2015/10/22/elixir-pingpong-table/)
