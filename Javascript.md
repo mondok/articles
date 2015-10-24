@@ -1,1 +1,1 @@
-# JavaScript-related Articles
+# JavaScript Articles

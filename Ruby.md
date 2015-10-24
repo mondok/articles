@@ -1,1 +1,1 @@
-# Ruby-related Articles
+# Ruby Articles

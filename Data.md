@@ -1,4 +1,4 @@
-# Data-related Articles
+# Data/Theory Articles
 
 ## Elasticsearch
 * [Balancing an Elasticsearch Cluster by Shard Size](http://engineering.datarank.com/2015/07/08/balancing-elasticsearch-cluster-by-shard-size.html)
@@ -14,4 +14,3 @@
 ## Theory
 * [CAP FAQ](https://github.com/henryr/cap-faq)
 * [Raft Consensus Algorithm](https://raft.github.io/)
-
