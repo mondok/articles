@@ -11,6 +11,9 @@
 ## Kafka
 *  [Kafka High-level Consumer - Missing Pieces](http://ingest.tips/2014/10/12/kafka-high-level-consumer-frequently-missing-pieces/)
 
+## Databases
+*  [What PostgreSQL has over other open source SQL databases: Part I](https://www.compose.io/articles/what-postgresql-has-over-other-open-source-sql-databases/)
+
 ## Theory
 * [CAP FAQ](https://github.com/henryr/cap-faq)
 * [Raft Consensus Algorithm](https://raft.github.io/)
